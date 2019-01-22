@@ -5,7 +5,7 @@
 ######
 
 
-LOGDIR=/app/erpHome/rizhaohs.ear/erp.war/waslogs/AppId
+LOGDIR=/app/logs/dir
 TEMPFILE=/tmp/tempfile.txt
 CHECKSIZE=200
 
